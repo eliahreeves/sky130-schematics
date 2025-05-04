@@ -1,4 +1,4 @@
-
+t
 # SKY130 Schematics
 
 This repository compiles verified visual schematics for all SKY130 High-Density Digital Standard Cells. Each schematic is validated with Layout Versus Schematic (LVS), ensuring 100% accuracy with the official SKY130 cells.
